@@ -1,0 +1,1 @@
+export const mockBlockData = { message: "mock block" }
